@@ -1,2 +1,2 @@
-Patricia
+Patricia Trie
 ========
